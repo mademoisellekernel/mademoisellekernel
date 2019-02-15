@@ -1,2 +1,2 @@
 # mademoisellekernel
-Solar Power Low Power Spark Cluster
+Low Power Spark Cluster
